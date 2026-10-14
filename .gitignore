@@ -6,3 +6,4 @@ dist/
 mcp-publisher.exe
 *.tar.gz.mcpize/
 .mcpize/
+.mcpize/
