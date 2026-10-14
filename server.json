@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Alex-Dev-Web-C-DE/compliance-engine-mcp",
+  "description": "Sanctions screening (OFAC/UK/EU/UN) + PEP + GLEIF entities via Compliance Engine.",
+  "version": "1.0.0",
+  "title": "Compliance Engine",
+  "websiteUrl": "https://jsonexlab.com/compliance/",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/Alex-Dev-Web-C-DE/compliance-engine-mcp"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://compliance-engine-mcp.mcpize.run/mcp"
+    }
+  ]
+}
