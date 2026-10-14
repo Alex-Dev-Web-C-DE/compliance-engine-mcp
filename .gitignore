@@ -4,4 +4,4 @@ dist/
 .env
 .DS_Store
 mcp-publisher.exe
-*.tar.gz
+*.tar.gz.mcpize/
