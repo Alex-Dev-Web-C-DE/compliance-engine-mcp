@@ -5,3 +5,4 @@ dist/
 .DS_Store
 mcp-publisher.exe
 *.tar.gz.mcpize/
+.mcpize/
